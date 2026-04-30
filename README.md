@@ -1,8 +1,4 @@
-# margotramos
+# Unique Commit for margotramos
 
-```yaml
-role: game developer
-location: Helsinki
-stack: [Rails, Rust, Remix, Scala]
-status: coffee addict
-```
+Random data: tttttttttt
+Date: 2026-04-30
